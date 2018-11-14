@@ -1,0 +1,13 @@
+page 1:- A. login by the consumer
+            (making an account by provide=>
+            1. email account 
+            2. user name 
+            3. password ) 
+         
+         B. location 
+            (to get the nearby restaurants and hotels around the consumer.)
+         
+           
+           
+
+         

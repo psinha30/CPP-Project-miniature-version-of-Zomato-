@@ -1,0 +1,31 @@
+class vendor
+{
+	
+}
+class user 
+{
+	private:
+		order_food();
+		billing();
+		food_booking_conformation();
+		void add_to_cart();
+		payment();
+	public:
+		signup_and_signout();
+		view_menu();
+		location_search();
+		
+}
+class stalker:public user
+{
+	private:
+		void add_to_cart_for_view();
+}
+class Admin:public user,public:stalker
+{
+	private:
+		delete_user();
+		make_admin();
+		add_restaurants();
+		make_vendor();
+}

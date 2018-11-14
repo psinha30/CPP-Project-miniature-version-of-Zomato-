@@ -1,0 +1,13 @@
+page 2:-  A.	QUICK SEARCH
+
+          {sorting by type of meal.
+          for example:- breakfast , lunch ,dinner , drinks ,  cafe.
+          }
+
+          B. on the basis of selection of type of meal and rating of the restaurant sorting is done between the restaurants and their food items.
+          
+          C. restaurant's menu which is selected.
+ 
+          D. selection of food items .( cost and quantity is also provided )
+ 
+          E. order list is prepared.        

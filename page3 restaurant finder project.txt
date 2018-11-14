@@ -1,0 +1,17 @@
+page 3:-    A. BILL 
+               
+               bill= xxx
+             + GST=15% * xxxx
+           ----------------------
+               total= ______
+         
+            B. mode of payment
+              1. cash on delivery
+                 ( followed by OTP to confirm order)
+              2. credit/debit cards
+                 ( followed by OTP to confirm order)
+              3. net banking
+                 ( followed by OTP to confirm order)
+
+            C. estimated time for the delivery.
+
